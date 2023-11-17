@@ -1,0 +1,26 @@
+.recipe-image { 
+    width: 400px;
+    height: auto;
+}
+
+.recipe-description { 
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ingredient-list > li{ 
+    font-style: italic;
+}
+
+h2 { 
+    font-size: 30px;
+}
+
+h3 { 
+    font-size: 20px;
+}
+
+h2,
+h3 { 
+    color: lightblue;
+}
